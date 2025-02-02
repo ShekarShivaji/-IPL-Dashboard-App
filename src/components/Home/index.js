@@ -47,6 +47,7 @@ class Home extends Component {
                   color="#ffffff"
                   height={50}
                   width={50}
+                  testid="loader"
                 />{' '}
               </div>
             ) : (
