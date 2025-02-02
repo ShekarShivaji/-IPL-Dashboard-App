@@ -1,0 +1,30 @@
+.eachTeamContainer {
+  background-color: #ffffff33;
+  width: 40%;
+  height: 200px;
+  margin: 20px;
+  border: 2px solid #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  text-decoration: none;
+}
+
+.eachCardLogo {
+  width: 100px;
+  align-self: flex-start;
+}
+
+.name {
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+
+  margin-left: 10px;
+  align-self: center;
+}
+
+.teamCard {
+  display: flex;
+}
